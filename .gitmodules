@@ -1,0 +1,30 @@
+[submodule "service_object"]
+	path = service_object
+	url = https://github.com/romanyx/service_object
+[submodule "consu"]
+	path = consu
+	url = https://github.com/btnguyen2k/consu
+[submodule "packagemain"]
+	path = packagemain
+	url = https://github.com/plutov/packagemain
+[submodule "clean-architecture-go"]
+	path = clean-architecture-go
+	url = https://github.com/eminetto/clean-architecture-go
+[submodule "webchat"]
+	path = webchat
+	url = https://github.com/sirfilip/webchat
+[submodule "gotrace"]
+	path = gotrace
+	url = https://github.com/divan/gotrace
+[submodule "wordsmith"]
+	path = wordsmith
+	url = https://github.com/svett/wordsmith.git
+[submodule "go-patterns"]
+	path = go-patterns
+	url = https://github.com/tmrts/go-patterns.git
+[submodule "go-algorithms"]
+	path = go-algorithms
+	url = https://github.com/0xAX/go-algorithms.git
+[submodule "Go-Design-Patterns-for-Real-World-Projects"]
+	path = Go-Design-Patterns-for-Real-World-Projects
+	url = https://github.com/PacktPublishing/Go-Design-Patterns-for-Real-World-Projects.git
